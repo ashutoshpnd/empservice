@@ -1,0 +1,17 @@
+{
+   
+    "firstName": "Sohan",
+    "lastName": "sharma",
+    "dateOfBirth": "2010-09-16",
+    "address":
+           { "addressLine1":"Sasane Nagar, Hadapsar",
+             "addressLine2":"Pune,Pin-411028",
+             "addressLine3":"MH, India"
+            },
+    "email": "ADKu@gmail.com",
+    "phone": "9958214943",
+    "designation": "T Lead",
+    "gender": "M",
+    "salary": 100000.0
+   
+}
